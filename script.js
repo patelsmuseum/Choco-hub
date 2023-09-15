@@ -33,7 +33,7 @@ addToCartButtons.forEach((button) => {
 });
 
 
-//decrease or increase quantity of product when clicked on add or sub  button
+//decrease or increase quantity of choc0late  when clicked on add or sub  button
 function changeQuantity(id, action) {
     var quantity = document.querySelector(`#${id} .change-quantity input`).value;
 
