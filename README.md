@@ -5,5 +5,5 @@
 * Display price and total product in pack
 * Provide limit on adding after pack is full
 
-# [Check domom ](https://patelsmuseum.github.io/choco-hub/)
+# [Check demo ](https://patelsmuseum.github.io/choco-hub/)
 
